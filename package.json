@@ -1,14 +1,14 @@
 {
-  "name": "casestudy",
+  "name": "npm-iok-study",
   "version": "1.0.0",
-  "description": "Case Study on Islands of Knowledge in Node.js repositories",
+  "description": "Code for the Case Study on Islands of Knowledge in popular NPM packages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turbopope/node-iok-study.git"
+    "url": "git+https://github.com/turbopope/npm-iok-study.git"
   },
   "author": "",
   "license": "ISC",
