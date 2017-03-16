@@ -1,0 +1,5 @@
+out/
+.cache/
+node_modules/
+result.json
+top5.json
