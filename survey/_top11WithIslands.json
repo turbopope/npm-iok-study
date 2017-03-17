@@ -1,0 +1,291 @@
+[
+  {
+    "repoName": "mongoose",
+    "uses": 17545,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "author": "Valeri Karpov",
+        "total": 1753,
+        "uses": 1141,
+        "portion": 0.6508841985168283
+      },
+      {
+        "location": "PROMISE",
+        "author": "Valeri Karpov",
+        "total": 632,
+        "uses": 512,
+        "portion": 0.810126582278481
+      }
+    ]
+  },
+  {
+    "repoName": "Ghost",
+    "uses": 12792,
+    "domainPortionIoKs": [
+      {
+        "location": "MONGODB",
+        "author": "Katharina Irrgang",
+        "total": 131,
+        "uses": 131,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "npm",
+    "uses": 9811,
+    "domainPortionIoKs": [
+      {
+        "location": "VALIDATE",
+        "author": "Rebecca Turner",
+        "total": 140,
+        "uses": 140,
+        "portion": 1
+      },
+      {
+        "location": "tacks",
+        "author": "Rebecca Turner",
+        "total": 163,
+        "uses": 121,
+        "portion": 0.7423312883435583
+      }
+    ]
+  },
+  {
+    "repoName": "eslint",
+    "uses": 6224,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "bluebird",
+    "uses": 6222,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "author": "Petka Antonov",
+        "total": 610,
+        "uses": 556,
+        "portion": 0.9114754098360656
+      },
+      {
+        "location": "PROMISE",
+        "author": "Petka Antonov",
+        "total": 2205,
+        "uses": 2112,
+        "portion": 0.9578231292517007
+      },
+      {
+        "location": "CORE",
+        "author": "Petka Antonov",
+        "total": 169,
+        "uses": 161,
+        "portion": 0.9526627218934911
+      },
+      {
+        "location": "ERROR",
+        "author": "Petka Antonov",
+        "total": 405,
+        "uses": 372,
+        "portion": 0.9185185185185185
+      },
+      {
+        "location": "PROCESS",
+        "author": "Petka Antonov",
+        "total": 147,
+        "uses": 109,
+        "portion": 0.7414965986394558
+      },
+      {
+        "location": "TEST",
+        "author": "Petka Antonov",
+        "total": 1961,
+        "uses": 1811,
+        "portion": 0.9235084140744518
+      },
+      {
+        "location": "sinon",
+        "author": "Petka Antonov",
+        "total": 132,
+        "uses": 130,
+        "portion": 0.9848484848484849
+      }
+    ]
+  },
+  {
+    "repoName": "webpack",
+    "uses": 4983,
+    "domainPortionIoKs": [
+      {
+        "location": "PROCESS",
+        "author": "Tobias Koppers",
+        "total": 115,
+        "uses": 104,
+        "portion": 0.9043478260869565
+      },
+      {
+        "location": "LOGGING",
+        "author": "Tobias Koppers",
+        "total": 108,
+        "uses": 106,
+        "portion": 0.9814814814814815
+      },
+      {
+        "location": "MODULE",
+        "author": "Tobias Koppers",
+        "total": 1660,
+        "uses": 1268,
+        "portion": 0.763855421686747
+      },
+      {
+        "location": "ERROR",
+        "author": "Tobias Koppers",
+        "total": 142,
+        "uses": 110,
+        "portion": 0.7746478873239436
+      }
+    ]
+  },
+  {
+    "repoName": "jsdom",
+    "uses": 4805,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "author": "Joris van der Wel",
+        "total": 2458,
+        "uses": 2342,
+        "portion": 0.9528071602929211
+      }
+    ]
+  },
+  {
+    "repoName": "bower",
+    "uses": 4552,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "author": "André Cruz",
+        "total": 230,
+        "uses": 160,
+        "portion": 0.6956521739130435
+      },
+      {
+        "location": "IO",
+        "author": "André Cruz",
+        "total": 798,
+        "uses": 524,
+        "portion": 0.656641604010025
+      }
+    ]
+  },
+  {
+    "repoName": "sails",
+    "uses": 4532,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "author": "Mike McNeil",
+        "total": 262,
+        "uses": 179,
+        "portion": 0.683206106870229
+      },
+      {
+        "location": "LOGGING",
+        "author": "Mike McNeil",
+        "total": 121,
+        "uses": 101,
+        "portion": 0.8347107438016529
+      },
+      {
+        "location": "TEST",
+        "author": "Scott Gress",
+        "total": 957,
+        "uses": 783,
+        "portion": 0.8181818181818182
+      },
+      {
+        "location": "JSON",
+        "author": "Scott Gress",
+        "total": 167,
+        "uses": 133,
+        "portion": 0.7964071856287425
+      }
+    ]
+  },
+  {
+    "repoName": "wp-calypso",
+    "uses": 4393,
+    "domainPortionIoKs": [
+      {
+        "location": "page",
+        "author": "Andy Peatling",
+        "total": 138,
+        "uses": 123,
+        "portion": 0.8913043478260869
+      },
+      {
+        "location": "NODE",
+        "author": "Andy Peatling",
+        "total": 598,
+        "uses": 505,
+        "portion": 0.8444816053511706
+      },
+      {
+        "location": "MODULE",
+        "author": "Andy Peatling",
+        "total": 489,
+        "uses": 438,
+        "portion": 0.8957055214723927
+      },
+      {
+        "location": "TEST",
+        "author": "Andy Peatling",
+        "total": 551,
+        "uses": 464,
+        "portion": 0.8421052631578947
+      },
+      {
+        "location": "dispatcher",
+        "author": "Andy Peatling",
+        "total": 251,
+        "uses": 243,
+        "portion": 0.9681274900398407
+      },
+      {
+        "location": "my-sites/controller",
+        "author": "Andy Peatling",
+        "total": 138,
+        "uses": 124,
+        "portion": 0.8985507246376812
+      }
+    ]
+  },
+  {
+    "repoName": "keystone",
+    "uses": 4076,
+    "domainPortionIoKs": [
+      {
+        "location": "BROWSER",
+        "author": "webteckie",
+        "total": 163,
+        "uses": 119,
+        "portion": 0.7300613496932515
+      },
+      {
+        "location": "HTML",
+        "author": "Jed Watson",
+        "total": 154,
+        "uses": 138,
+        "portion": 0.8961038961038961
+      },
+      {
+        "location": "FRAMEWORK",
+        "author": "jstockwin",
+        "total": 112,
+        "uses": 111,
+        "portion": 0.9910714285714286
+      }
+    ]
+  }
+]

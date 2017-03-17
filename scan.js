@@ -16,10 +16,10 @@ function totalUses(table) {
 }
 
 const options = {
-  MODULE_THRESHOLD: 25,
-  AUTHOR_THRESHOLD: 25,
-  PORTION_THRESHOLD: 0.75,
-  CARRY_THRESHOLD: 0.75,
+  PORTION_THRESHOLD: parseFloat(process.argv[2]) || 0.75,
+  CARRY_THRESHOLD: parseFloat(process.argv[3]) || 0.75,
+  MODULE_THRESHOLD: parseInt(process.argv[4]) || 25,
+  AUTHOR_THRESHOLD: parseInt(process.argv[5]) || 25,
 }
 
 const result = {

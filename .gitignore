@@ -1,5 +1,7 @@
 out/
 .cache/
 node_modules/
-result.json
+result*
 top*
+scans/
+islandCounts.csv
