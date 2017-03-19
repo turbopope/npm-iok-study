@@ -26,5 +26,5 @@ Thanks in advance for your collaboration,
 Marco Brack
 Software Languages Team
 Koblenz, Germany
-http://www.softlang.org/
+http://www.softlang.org/techusage
 ```
