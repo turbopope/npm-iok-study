@@ -39,3 +39,5 @@ Once you have the `results.json` file, you can do some analysis on it with `jq`.
 `jq '.repos[] | {repoName, uses, domainPortionIoKs: (.domainIslands.islandsByPortion | length), domainCarryIoKs: (.domainIslands.islandsByCarry | length)}' result_65_70.json` Show name, uses and number of domain ioks by portion and carry.
 
 `[[.repos[]] | sort_by(.uses)[] | {repoName, uses, domainPortionIoKs: ([.domainIslands.islandsByPortion[] | select(.uses > 100)])}] | .[-10:] | reverse` -- Case Study Pilot
+
+`jq '{domainPortion: ([.repos[] | .domainIslands.islandsByPortion | .[]] | length), domainCarry: ([.repos[] | .domainIslands.islandsByCarry | .[]] | length), modulePortion: ([.repos[] | .moduleIslands.islandsByPortion | .[]] | length), moduleCarry: ([.repos[] | .moduleIslands.islandsByCarry | .[]] | length)}' 30.json` -- Count all types of Islands of Knowledge.
