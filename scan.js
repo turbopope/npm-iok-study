@@ -2,7 +2,7 @@ const fs = require('fs');
 const exec = require('child_process').execSync;
 const path = require('path');
 
-const reposDir = '/home/mbrack/ma/npm-repos/';
+const reposDir = '/home/mbrack/ma/casestudy/out/';
 const toolDir = '/home/mbrack/ma/node-iok-finder/';
 
 const scan = require(`${toolDir}lib/scan_for_islands.js`);
@@ -38,11 +38,12 @@ for (let repoDir of repoDirs) {
   const domainTable = Table.parse(fs.readFileSync(domainTableFile, { encoding: 'utf-8' }));
   const moduleTableFile = `${__dirname}/out/${repoName}/uses.csv`;
   const moduleTable = Table.parse(fs.readFileSync(moduleTableFile, { encoding: 'utf-8' }));
+  const remapFile = `${__dirname}/out/${repoName}/resolved_remap.json`;
   let domainIslands;
   let moduleIslands;
 
   if (fs.existsSync(domainTableFile)) {
-    domainIslands = scan(domainTableFile, options);
+    domainIslands = scan(domainTableFile, options, remapFile);
   } else {
     domainIslands = `${domainTableFile} does not exist`;
   }
