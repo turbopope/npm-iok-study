@@ -3,10 +3,10 @@ const exec = require('child_process').execSync;
 const url = require('url');
 
 const reposDir = '/home/mbrack/ma/npm-repos/';
-const URLsFile = 'top5.json';
+const URLsFile = process.argv[2];
 const toolDir = '/home/mbrack/ma/node-iok-finder/';
 
-const gitURLs = JSON.parse(fs.readFileSync(URLsFile), { encoding: 'utf-8' });
+const gitURLs = JSON.parse(fs.readFileSync(URLsFile), { encoding: 'utf-8' }).repoURLs;
 
 for (let gitURL of gitURLs) {
   gitURL = url.parse(gitURL);
