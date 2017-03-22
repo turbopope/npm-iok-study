@@ -3,5 +3,4 @@ out/
 node_modules/
 result*
 top*
-scans/
 islandCounts.csv
