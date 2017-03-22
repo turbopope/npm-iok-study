@@ -1,0 +1,889 @@
+
+---- Font-Awesome / /home/mbrack/ma/npm-repos/Font-Awesome/
+Generating mailmap
+warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 1336 and retry the command.
+Analyzed 0 of 0 files. Found 0 authors using 0 modules in 0 instances.
+Could not use "nc", falling back to slower node.js method for sync requests.
+
+---- Ghost / /home/mbrack/ma/npm-repos/Ghost/
+analyzing [================================] 466/466, 100% | elapsed: 30.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/Ghost/index.js
+Analyzed 466 of 466 files. Found 79 authors using 100 modules in 12792 instances.
+
+---- Inquirer / /home/mbrack/ma/npm-repos/Inquirer/
+Generating mailmap
+analyzing [================================] 40/40, 100% | elapsed: 0.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/Inquirer/test/specs/prompts/rawlist.js
+Analyzed 40 of 40 files. Found 21 authors using 43 modules in 594 instances.
+
+---- TypeScript / /home/mbrack/ma/npm-repos/TypeScript/
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/TypeScript/bin/tsserver
+Analyzed 0 of 2 files. Found 0 authors using 0 modules in 0 instances.
+
+---- UglifyJS2 / /home/mbrack/ma/npm-repos/UglifyJS2/
+Generating mailmap
+analyzing [================================] 31/31, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/UglifyJS2/test/sourcemaps.js
+Analyzed 26 of 31 files. Found 16 authors using 19 modules in 318 instances.
+
+---- angular / /home/mbrack/ma/npm-repos/angular/
+Generating mailmap
+analyzing [================================] 62/62, 100% | elapsed: 39.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/angular/test/ng/directive/formSpec.js
+Analyzed 60 of 62 files. Found 27 authors using 36 modules in 330 instances.
+
+---- async / /home/mbrack/ma/npm-repos/async/
+Generating mailmap
+analyzing [================================] 53/53, 100% | elapsed: 4.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/async/support/sync-es-package.js
+Analyzed 50 of 53 files. Found 27 authors using 38 modules in 1300 instances.
+
+---- atom / /home/mbrack/ma/npm-repos/atom/
+Generating mailmap
+warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 1600 and retry the command.
+analyzing [================================] 84/84, 100% | elapsed: 2.6s | eta: 0.0s | /home/mbrack/ma/npm-repos/atom/static/index.js
+Analyzed 76 of 84 files. Found 15 authors using 61 modules in 1400 instances.
+
+---- autoprefixer / /home/mbrack/ma/npm-repos/autoprefixer/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/autoprefixer/index.js
+Analyzed 2 of 2 files. Found 1 authors using 10 modules in 45 instances.
+
+---- aws-sdk-js / /home/mbrack/ma/npm-repos/aws-sdk-js/
+Generating mailmap
+analyzing [================================] 213/213, 100% | elapsed: 16.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/aws-sdk-js/test/signers/v4_credentials.js
+Analyzed 207 of 213 files. Found 13 authors using 34 modules in 950 instances.
+
+---- axios / /home/mbrack/ma/npm-repos/axios/
+Generating mailmap
+analyzing [================================] 50/50, 100% | elapsed: 0.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/axios/webpack.config.js
+Analyzed 50 of 50 files. Found 12 authors using 28 modules in 224 instances.
+
+---- backbone / /home/mbrack/ma/npm-repos/backbone/
+Generating mailmap
+analyzing [================================] 1/1, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/backbone/karma.conf-sauce.js
+Analyzed 1 of 1 files. Found 2 authors using 6 modules in 15 instances.
+
+---- bluebird / /home/mbrack/ma/npm-repos/bluebird/
+Generating mailmap
+analyzing [================================] 174/174, 100% | elapsed: 10.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/bluebird/test/mocha/using.js
+Analyzed 173 of 174 files. Found 31 authors using 60 modules in 6222 instances.
+
+---- body-parser / /home/mbrack/ma/npm-repos/body-parser/
+Generating mailmap
+analyzing [================================] 11/11, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/body-parser/test/urlencoded.js
+Analyzed 11 of 11 files. Found 1 authors using 23 modules in 328 instances.
+
+---- bootstrap / /home/mbrack/ma/npm-repos/bootstrap/
+Generating mailmap
+analyzing [================================] 9/9, 100% | elapsed: 1.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/bootstrap/js/tab.js
+Analyzed 8 of 9 files. Found 10 authors using 13 modules in 66 instances.
+
+---- bower / /home/mbrack/ma/npm-repos/bower/
+Generating mailmap
+analyzing [================================] 149/149, 100% | elapsed: 4.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/bower/test/util/template.js
+Analyzed 148 of 149 files. Found 74 authors using 98 modules in 4552 instances.
+
+---- browser-sync / /home/mbrack/ma/npm-repos/browser-sync/
+Generating mailmap
+analyzing [================================] 195/195, 100% | elapsed: 3.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/browser-sync/test/utils.js
+Analyzed 193 of 195 files. Found 16 authors using 52 modules in 2173 instances.
+
+---- chai / /home/mbrack/ma/npm-repos/chai/
+analyzing [================================] 29/29, 100% | elapsed: 2.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/chai/test/display/message.js
+Analyzed 29 of 29 files. Found 23 authors using 28 modules in 546 instances.
+
+---- chalk / /home/mbrack/ma/npm-repos/chalk/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/chalk/test.js
+Analyzed 4 of 4 files. Found 8 authors using 13 modules in 93 instances.
+
+---- cheerio / /home/mbrack/ma/npm-repos/cheerio/
+Generating mailmap
+analyzing [================================] 21/21, 100% | elapsed: 0.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/cheerio/test/xml.js
+Analyzed 20 of 21 files. Found 44 authors using 21 modules in 1428 instances.
+
+---- chokidar / /home/mbrack/ma/npm-repos/chokidar/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/chokidar/test.js
+Analyzed 5 of 5 files. Found 12 authors using 25 modules in 571 instances.
+
+---- classnames / /home/mbrack/ma/npm-repos/classnames/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/classnames/tests/index.js
+Analyzed 4 of 4 files. Found 6 authors using 7 modules in 82 instances.
+
+---- co / /home/mbrack/ma/npm-repos/co/
+Generating mailmap
+analyzing [================================] 11/11, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/co/test/wrap.js
+Analyzed 11 of 11 files. Found 8 authors using 8 modules in 143 instances.
+
+---- coffeescript / /home/mbrack/ma/npm-repos/coffeescript/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/coffeescript/repl.js
+Analyzed 2 of 4 files. Found 1 authors using 2 modules in 2 instances.
+
+---- colors / /home/mbrack/ma/npm-repos/colors/
+Generating mailmap
+analyzing [================================] 9/9, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/colors/tests/safe-test.js
+Analyzed 9 of 9 files. Found 5 authors using 6 modules in 41 instances.
+
+---- colors.js / /home/mbrack/ma/npm-repos/colors.js/
+Generating mailmap
+analyzing [================================] 9/9, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/colors.js/tests/safe-test.js
+Analyzed 9 of 9 files. Found 5 authors using 6 modules in 41 instances.
+
+---- commander / /home/mbrack/ma/npm-repos/commander/
+Generating mailmap
+analyzing [================================] 34/34, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/commander/test/test.variadic.args.js
+Analyzed 34 of 34 files. Found 30 authors using 18 modules in 355 instances.
+
+---- commander.js / /home/mbrack/ma/npm-repos/commander.js/
+Generating mailmap
+analyzing [================================] 34/34, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/commander.js/test/test.variadic.args.js
+Analyzed 34 of 34 files. Found 30 authors using 18 modules in 355 instances.
+
+---- compression / /home/mbrack/ma/npm-repos/compression/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/compression/test/compression.js
+Analyzed 2 of 2 files. Found 1 authors using 15 modules in 95 instances.
+
+---- connect / /home/mbrack/ma/npm-repos/connect/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/connect/test/server.js
+Analyzed 5 of 5 files. Found 4 authors using 14 modules in 107 instances.
+
+---- cookie-parser / /home/mbrack/ma/npm-repos/cookie-parser/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/cookie-parser/test/cookieParser.js
+Analyzed 2 of 2 files. Found 2 authors using 10 modules in 84 instances.
+
+---- cordova-cli / /home/mbrack/ma/npm-repos/cordova-cli/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/cordova-cli/src/telemetry.js
+Analyzed 5 of 6 files. Found 23 authors using 19 modules in 118 instances.
+
+---- cors / /home/mbrack/ma/npm-repos/cors/
+Generating mailmap
+analyzing [================================] 8/8, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/cors/test/issue-31.js
+Analyzed 8 of 8 files. Found 8 authors using 13 modules in 162 instances.
+
+---- cross-env / /home/mbrack/ma/npm-repos/cross-env/
+Generating mailmap
+analyzing [================================] 1/1, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/cross-env/package-scripts.js
+Analyzed 1 of 1 files. Found 1 authors using 3 modules in 6 instances.
+
+---- d3 / /home/mbrack/ma/npm-repos/d3/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/d3/test/test-exports.js
+Analyzed 2 of 2 files. Found 1 authors using 8 modules in 14 instances.
+
+---- debug / /home/mbrack/ma/npm-repos/debug/
+Generating mailmap
+analyzing [================================] 10/10, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/debug/test/debug_spec.js
+Analyzed 10 of 10 files. Found 14 authors using 19 modules in 135 instances.
+
+---- del / /home/mbrack/ma/npm-repos/del/
+Generating mailmap
+analyzing [================================] 1/1, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/del/index.js
+Analyzed 1 of 1 files. Found 4 authors using 11 modules in 28 instances.
+
+---- dotenv / /home/mbrack/ma/npm-repos/dotenv/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/dotenv/test/main.js
+Analyzed 4 of 4 files. Found 4 authors using 10 modules in 34 instances.
+
+---- ejs / /home/mbrack/ma/npm-repos/ejs/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/ejs/test/ejs.js
+Analyzed 4 of 4 files. Found 13 authors using 16 modules in 260 instances.
+
+---- eslint / /home/mbrack/ma/npm-repos/eslint/
+Generating mailmap
+analyzing [================================] 512/512, 100% | elapsed: 75.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/eslint/tests/templates/pr-create.md.ejs.js
+Analyzed 511 of 512 files. Found 106 authors using 101 modules in 6262 instances.
+
+---- esprima / /home/mbrack/ma/npm-repos/esprima/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/esprima/test/verify-line-ending.js
+Analyzed 3 of 4 files. Found 1 authors using 2 modules in 6 instances.
+
+---- express / /home/mbrack/ma/npm-repos/express/
+Generating mailmap
+analyzing [================================] 102/102, 100% | elapsed: 3.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/express/test/utils.js
+Analyzed 102 of 102 files. Found 47 authors using 52 modules in 1449 instances.
+
+---- forever / /home/mbrack/ma/npm-repos/forever/
+Generating mailmap
+analyzing [================================] 18/18, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/forever/test/worker/simple-test.js
+Analyzed 17 of 18 files. Found 21 authors using 35 modules in 343 instances.
+
+---- gm / /home/mbrack/ma/npm-repos/gm/
+analyzing [================================] 131/131, 100% | elapsed: 1.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/gm/test/webp.js
+Analyzed 131 of 131 files. Found 31 authors using 24 modules in 1026 instances.
+
+---- grunt / /home/mbrack/ma/npm-repos/grunt/
+Generating mailmap
+analyzing [================================] 22/22, 100% | elapsed: 0.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/grunt/test/util/task_test.js
+Analyzed 21 of 22 files. Found 11 authors using 30 modules in 457 instances.
+
+---- grunt-cli / /home/mbrack/ma/npm-repos/grunt-cli/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/grunt-cli/lib/info.js
+Analyzed 3 of 4 files. Found 3 authors using 9 modules in 41 instances.
+
+---- grunt-contrib-cssmin / /home/mbrack/ma/npm-repos/grunt-contrib-cssmin/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/grunt-contrib-cssmin/test/test.js
+Analyzed 3 of 3 files. Found 9 authors using 8 modules in 27 instances.
+
+---- grunt-contrib-jshint / /home/mbrack/ma/npm-repos/grunt-contrib-jshint/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/grunt-contrib-jshint/test/jshint_test.js
+Analyzed 3 of 3 files. Found 10 authors using 9 modules in 66 instances.
+
+---- grunt-contrib-uglify / /home/mbrack/ma/npm-repos/grunt-contrib-uglify/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/grunt-contrib-uglify/test/uglify_test.js
+Analyzed 3 of 3 files. Found 13 authors using 13 modules in 60 instances.
+
+---- grunt-contrib-watch / /home/mbrack/ma/npm-repos/grunt-contrib-watch/
+Generating mailmap
+analyzing [================================] 11/11, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/grunt-contrib-watch/test/tasks/watch_test.js
+Analyzed 11 of 11 files. Found 13 authors using 24 modules in 282 instances.
+
+---- gulp / /home/mbrack/ma/npm-repos/gulp/
+Generating mailmap
+analyzing [================================] 8/8, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp/test/watch.js
+Analyzed 7 of 8 files. Found 8 authors using 19 modules in 235 instances.
+
+---- gulp-autoprefixer / /home/mbrack/ma/npm-repos/gulp-autoprefixer/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-autoprefixer/test.js
+Analyzed 2 of 2 files. Found 3 authors using 11 modules in 41 instances.
+
+---- gulp-babel / /home/mbrack/ma/npm-repos/gulp-babel/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-babel/test.js
+Analyzed 2 of 2 files. Found 7 authors using 12 modules in 68 instances.
+
+---- gulp-changed / /home/mbrack/ma/npm-repos/gulp-changed/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-changed/test.js
+Analyzed 2 of 2 files. Found 5 authors using 14 modules in 70 instances.
+
+---- gulp-concat / /home/mbrack/ma/npm-repos/gulp-concat/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-concat/test/test-stream.js
+Analyzed 3 of 3 files. Found 8 authors using 15 modules in 103 instances.
+
+---- gulp-connect / /home/mbrack/ma/npm-repos/gulp-connect/
+Generating mailmap
+analyzing [================================] 1/1, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-connect/test/test.js
+Analyzed 1 of 1 files. Found 4 authors using 3 modules in 15 instances.
+
+---- gulp-htmlmin / /home/mbrack/ma/npm-repos/gulp-htmlmin/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-htmlmin/test/test.js
+Analyzed 2 of 2 files. Found 3 authors using 14 modules in 54 instances.
+
+---- gulp-if / /home/mbrack/ma/npm-repos/gulp-if/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-if/test/loadTests.js
+Analyzed 6 of 6 files. Found 1 authors using 14 modules in 49 instances.
+
+---- gulp-imagemin / /home/mbrack/ma/npm-repos/gulp-imagemin/
+Generating mailmap
+analyzing [================================] 1/1, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-imagemin/index.js
+Analyzed 1 of 1 files. Found 5 authors using 12 modules in 38 instances.
+
+---- gulp-inject / /home/mbrack/ma/npm-repos/gulp-inject/
+Generating mailmap
+analyzing [================================] 11/11, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-inject/src/transform/transform_test.js
+Analyzed 9 of 11 files. Found 10 authors using 17 modules in 382 instances.
+
+---- gulp-jshint / /home/mbrack/ma/npm-repos/gulp-jshint/
+Generating mailmap
+analyzing [================================] 21/21, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-jshint/test/util.js
+Analyzed 21 of 21 files. Found 8 authors using 28 modules in 183 instances.
+
+---- gulp-less / /home/mbrack/ma/npm-repos/gulp-less/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-less/test/main.js
+Analyzed 2 of 2 files. Found 10 authors using 11 modules in 48 instances.
+
+---- gulp-livereload / /home/mbrack/ma/npm-repos/gulp-livereload/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-livereload/test/index.js
+Analyzed 2 of 2 files. Found 4 authors using 13 modules in 82 instances.
+
+---- gulp-load-plugins / /home/mbrack/ma/npm-repos/gulp-load-plugins/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-load-plugins/test/index.js
+Analyzed 2 of 2 files. Found 12 authors using 19 modules in 65 instances.
+
+---- gulp-notify / /home/mbrack/ma/npm-repos/gulp-notify/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-notify/test/main.js
+Analyzed 6 of 6 files. Found 3 authors using 15 modules in 335 instances.
+
+---- gulp-plumber / /home/mbrack/ma/npm-repos/gulp-plumber/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-plumber/test/util/index.js
+Analyzed 6 of 6 files. Found 2 authors using 10 modules in 111 instances.
+
+---- gulp-rename / /home/mbrack/ma/npm-repos/gulp-rename/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-rename/test/spec-helper.js
+Analyzed 5 of 5 files. Found 6 authors using 10 modules in 35 instances.
+
+---- gulp-replace / /home/mbrack/ma/npm-repos/gulp-replace/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-replace/test/realworld.js
+Analyzed 3 of 3 files. Found 5 authors using 11 modules in 76 instances.
+
+---- gulp-rev / /home/mbrack/ma/npm-repos/gulp-rev/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-rev/test.js
+Analyzed 2 of 2 files. Found 10 authors using 13 modules in 180 instances.
+
+---- gulp-sass / /home/mbrack/ma/npm-repos/gulp-sass/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-sass/test/main.js
+Analyzed 3 of 3 files. Found 12 authors using 21 modules in 237 instances.
+
+---- gulp-sourcemaps / /home/mbrack/ma/npm-repos/gulp-sourcemaps/
+Generating mailmap
+analyzing [================================] 10/10, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-sourcemaps/test/write.js
+Analyzed 10 of 10 files. Found 10 authors using 27 modules in 402 instances.
+
+---- gulp-uglify / /home/mbrack/ma/npm-repos/gulp-uglify/
+Generating mailmap
+analyzing [================================] 15/15, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-uglify/test/streams.js
+Analyzed 15 of 15 files. Found 3 authors using 29 modules in 330 instances.
+
+---- gulp-uncss / /home/mbrack/ma/npm-repos/gulp-uncss/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-uncss/test.js
+Analyzed 2 of 2 files. Found 1 authors using 8 modules in 23 instances.
+
+---- gulp-useref / /home/mbrack/ma/npm-repos/gulp-useref/
+Generating mailmap
+analyzing [================================] 10/10, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-useref/test/test.js
+Analyzed 10 of 10 files. Found 7 authors using 21 modules in 338 instances.
+
+---- gulp-util / /home/mbrack/ma/npm-repos/gulp-util/
+Generating mailmap
+analyzing [================================] 26/26, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-util/test/template.js
+Analyzed 26 of 26 files. Found 13 authors using 28 modules in 199 instances.
+
+---- gulp-watch / /home/mbrack/ma/npm-repos/gulp-watch/
+Generating mailmap
+analyzing [================================] 13/13, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/gulp-watch/test/util/touch.js
+Analyzed 13 of 13 files. Found 4 authors using 22 modules in 122 instances.
+
+---- handlebars / /home/mbrack/ma/npm-repos/handlebars/
+Generating mailmap
+analyzing [================================] 28/28, 100% | elapsed: 0.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/handlebars/tasks/version.js
+Analyzed 26 of 28 files. Found 8 authors using 24 modules in 209 instances.
+
+---- hapi / /home/mbrack/ma/npm-repos/hapi/
+Generating mailmap
+analyzing [================================] 36/36, 100% | elapsed: 10.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/hapi/test/validation.js
+Analyzed 36 of 36 files. Found 25 authors using 49 modules in 1544 instances.
+
+---- helmet / /home/mbrack/ma/npm-repos/helmet/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/helmet/test/index.js
+Analyzed 2 of 2 files. Found 1 authors using 7 modules in 214 instances.
+
+---- hexo / /home/mbrack/ma/npm-repos/hexo/
+Generating mailmap
+analyzing [================================] 231/231, 100% | elapsed: 5.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/hexo/test/util/stream.js
+Analyzed 230 of 231 files. Found 21 authors using 51 modules in 2840 instances.
+
+---- html-webpack-plugin / /home/mbrack/ma/npm-repos/html-webpack-plugin/
+Generating mailmap
+analyzing [================================] 8/8, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/html-webpack-plugin/spec/ExampleSpec.js
+Analyzed 8 of 8 files. Found 15 authors using 31 modules in 411 instances.
+
+---- http-server / /home/mbrack/ma/npm-repos/http-server/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/http-server/test/http-server-test.js
+Analyzed 2 of 3 files. Found 7 authors using 11 modules in 51 instances.
+
+---- ionic-cli / /home/mbrack/ma/npm-repos/ionic-cli/
+Generating mailmap
+analyzing [================================] 95/95, 100% | elapsed: 3.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/ionic-cli/spec/utils/templates.spec.js
+Analyzed 88 of 95 files. Found 16 authors using 47 modules in 2068 instances.
+
+---- istanbul / /home/mbrack/ma/npm-repos/istanbul/
+Generating mailmap
+analyzing [================================] 111/111, 100% | elapsed: 1.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/istanbul/test/run.js
+Analyzed 106 of 111 files. Found 44 authors using 40 modules in 1586 instances.
+
+---- jade / /home/mbrack/ma/npm-repos/jade/
+Generating mailmap
+analyzing [================================] 53/53, 100% | elapsed: 1.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/jade/scripts/filename-serializer.js
+Analyzed 53 of 53 files. Found 10 authors using 50 modules in 908 instances.
+
+---- javascript / /home/mbrack/ma/npm-repos/javascript/
+Generating mailmap
+analyzing [================================] 12/12, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/javascript/packages/eslint-config-airbnb/test/test-base.js
+Analyzed 11 of 12 files. Found 6 authors using 4 modules in 25 instances.
+
+---- joi / /home/mbrack/ma/npm-repos/joi/
+Generating mailmap
+analyzing [================================] 35/35, 100% | elapsed: 3.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/joi/test/string.js
+Analyzed 35 of 35 files. Found 21 authors using 26 modules in 665 instances.
+
+---- jquery / /home/mbrack/ma/npm-repos/jquery/
+analyzing [================================] 30/30, 100% | elapsed: 2.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/jquery/test/unit/selector.js
+Analyzed 30 of 30 files. Found 18 authors using 30 modules in 260 instances.
+
+---- js / /home/mbrack/ma/npm-repos/js/
+Generating mailmap
+analyzing [================================] 11/11, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/js/test/util.js
+Analyzed 9 of 11 files. Found 1 authors using 12 modules in 130 instances.
+
+---- js-xlsx / /home/mbrack/ma/npm-repos/js-xlsx/
+Generating mailmap
+analyzing [================================] 24/24, 100% | elapsed: 16.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/js-xlsx/xlsx.js
+Analyzed 23 of 24 files. Found 7 authors using 32 modules in 2160 instances.
+
+---- jsdom / /home/mbrack/ma/npm-repos/jsdom/
+analyzing [================================] 248/248, 100% | elapsed: 134.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/jsdom/test/worker.js
+Analyzed 245 of 248 files. Found 48 authors using 77 modules in 4805 instances.
+
+---- jshint / /home/mbrack/ma/npm-repos/jshint/
+analyzing [================================] 28/28, 100% | elapsed: 3.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/jshint/tests/unit/parser.js
+Analyzed 23 of 28 files. Found 86 authors using 30 modules in 1287 instances.
+
+---- json-server / /home/mbrack/ma/npm-repos/json-server/
+Generating mailmap
+analyzing [================================] 22/22, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/json-server/test/server/validate-data.js
+Analyzed 21 of 22 files. Found 13 authors using 42 modules in 403 instances.
+
+---- karma / /home/mbrack/ma/npm-repos/karma/
+analyzing [================================] 83/83, 100% | elapsed: 3.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/karma/wallaby.js
+Analyzed 82 of 83 files. Found 59 authors using 66 modules in 945 instances.
+
+---- keystone / /home/mbrack/ma/npm-repos/keystone/
+Generating mailmap
+analyzing [================================] 353/353, 100% | elapsed: 16.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/keystone/test/unit/track.js
+Analyzed 345 of 353 files. Found 76 authors using 90 modules in 4076 instances.
+
+---- koa / /home/mbrack/ma/npm-repos/koa/
+Generating mailmap
+analyzing [================================] 70/70, 100% | elapsed: 1.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/koa/test/response/writeable.js
+Analyzed 68 of 70 files. Found 25 authors using 48 modules in 496 instances.
+
+---- left-pad / /home/mbrack/ma/npm-repos/left-pad/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/left-pad/test.js
+Analyzed 2 of 2 files. Found 4 authors using 5 modules in 11 instances.
+
+---- less / /home/mbrack/ma/npm-repos/less/
+Generating mailmap
+analyzing [================================] 92/92, 100% | elapsed: 5.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/less/test/modify-vars.js
+Analyzed 91 of 92 files. Found 29 authors using 23 modules in 507 instances.
+
+---- lodash / /home/mbrack/ma/npm-repos/lodash/
+Generating mailmap
+warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 866 and retry the command.
+Analyzed 0 of 0 files. Found 0 authors using 0 modules in 0 instances.
+
+---- log4js-node / /home/mbrack/ma/npm-repos/log4js-node/
+Generating mailmap
+analyzing [================================] 59/59, 100% | elapsed: 1.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/log4js-node/test/tap/subcategories-test.js
+Analyzed 59 of 59 files. Found 23 authors using 29 modules in 971 instances.
+
+---- marked / /home/mbrack/ma/npm-repos/marked/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/marked/test/index.js
+Analyzed 3 of 5 files. Found 2 authors using 8 modules in 18 instances.
+
+---- meteor / /home/mbrack/ma/npm-repos/meteor/
+analyzing [================================] 92/92, 100% | elapsed: 8.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/meteor/scripts/dev-bundle-tool-package.js
+Analyzed 91 of 92 files. Found 35 authors using 37 modules in 609 instances.
+
+---- minimist / /home/mbrack/ma/npm-repos/minimist/
+Generating mailmap
+analyzing [================================] 15/15, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/minimist/test/whitespace.js
+Analyzed 15 of 15 files. Found 10 authors using 3 modules in 66 instances.
+
+---- mocha / /home/mbrack/ma/npm-repos/mocha/
+analyzing [================================] 96/96, 100% | elapsed: 7.6s | eta: 0.0s | /home/mbrack/ma/npm-repos/mocha/test/utils.spec.js
+Analyzed 94 of 96 files. Found 83 authors using 61 modules in 2841 instances.
+
+---- moment / /home/mbrack/ma/npm-repos/moment/
+analyzing [================================] 133/133, 100% | elapsed: 165.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/moment/templates/test-header.js
+Analyzed 131 of 133 files. Found 8 authors using 24 modules in 3330 instances.
+
+---- mongoose / /home/mbrack/ma/npm-repos/mongoose/
+Generating mailmap
+analyzing [================================] 173/173, 100% | elapsed: 72.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/mongoose/website.js
+Analyzed 173 of 173 files. Found 93 authors using 67 modules in 17576 instances.
+
+---- morgan / /home/mbrack/ma/npm-repos/morgan/
+Generating mailmap
+analyzing [================================] 2/2, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/morgan/test/morgan.js
+Analyzed 2 of 2 files. Found 1 authors using 22 modules in 217 instances.
+
+---- multer / /home/mbrack/ma/npm-repos/multer/
+Generating mailmap
+analyzing [================================] 21/21, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/multer/test/unicode.js
+Analyzed 21 of 21 files. Found 4 authors using 26 modules in 431 instances.
+
+---- mysql / /home/mbrack/ma/npm-repos/mysql/
+Generating mailmap
+analyzing [================================] 210/210, 100% | elapsed: 4.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/mysql/tool/generate-error-constants.js
+Analyzed 209 of 210 files. Found 35 authors using 42 modules in 2096 instances.
+
+---- n / /home/mbrack/ma/npm-repos/n/
+Generating mailmap
+Analyzed 0 of 0 files. Found 0 authors using 0 modules in 0 instances.
+
+---- node / /home/mbrack/ma/npm-repos/node/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/node/test/sync.js
+Analyzed 5 of 5 files. Found 9 authors using 9 modules in 71 instances.
+
+---- node-bunyan / /home/mbrack/ma/npm-repos/node-bunyan/
+Generating mailmap
+analyzing [================================] 27/27, 100% | elapsed: 0.6s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-bunyan/test/tap4nodeunit.js
+Analyzed 26 of 27 files. Found 9 authors using 20 modules in 203 instances.
+
+---- node-csv / /home/mbrack/ma/npm-repos/node-csv/
+Generating mailmap
+Analyzed 0 of 0 files. Found 0 authors using 0 modules in 0 instances.
+
+---- node-formidable / /home/mbrack/ma/npm-repos/node-formidable/
+Generating mailmap
+analyzing [================================] 31/31, 100% | elapsed: 0.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-formidable/tool/record.js
+Analyzed 31 of 31 files. Found 27 authors using 28 modules in 324 instances.
+
+---- node-fs-extra / /home/mbrack/ma/npm-repos/node-fs-extra/
+Generating mailmap
+analyzing [================================] 82/82, 100% | elapsed: 1.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-fs-extra/test.js
+Analyzed 82 of 82 files. Found 13 authors using 24 modules in 2278 instances.
+
+---- node-glob / /home/mbrack/ma/npm-repos/node-glob/
+Generating mailmap
+analyzing [================================] 34/34, 100% | elapsed: 0.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-glob/test/zz-cleanup.js
+Analyzed 34 of 34 files. Found 7 authors using 24 modules in 536 instances.
+
+---- node-http-proxy / /home/mbrack/ma/npm-repos/node-http-proxy/
+Generating mailmap
+analyzing [================================] 17/17, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-http-proxy/test/lib-https-proxy-test.js
+Analyzed 17 of 17 files. Found 39 authors using 30 modules in 459 instances.
+
+---- node-jsonwebtoken / /home/mbrack/ma/npm-repos/node-jsonwebtoken/
+Generating mailmap
+analyzing [================================] 28/28, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-jsonwebtoken/verify.js
+Analyzed 27 of 28 files. Found 25 authors using 22 modules in 444 instances.
+
+---- node-mime / /home/mbrack/ma/npm-repos/node-mime/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-mime/mime.js
+Analyzed 3 of 4 files. Found 2 authors using 10 modules in 48 instances.
+
+---- node-mkdirp / /home/mbrack/ma/npm-repos/node-mkdirp/
+Generating mailmap
+analyzing [================================] 17/17, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-mkdirp/test/umask_sync.js
+Analyzed 16 of 17 files. Found 3 authors using 9 modules in 224 instances.
+
+---- node-mssql / /home/mbrack/ma/npm-repos/node-mssql/
+Generating mailmap
+analyzing [================================] 17/17, 100% | elapsed: 1.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-mssql/test/tedious/tedious.js
+Analyzed 16 of 17 files. Found 1 authors using 29 modules in 742 instances.
+
+---- node-optimist / /home/mbrack/ma/npm-repos/node-optimist/
+Generating mailmap
+analyzing [================================] 23/23, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-optimist/test/whitespace.js
+Analyzed 9 of 23 files. Found 8 authors using 16 modules in 166 instances.
+
+---- node-postgres / /home/mbrack/ma/npm-repos/node-postgres/
+Generating mailmap
+analyzing [================================] 108/108, 100% | elapsed: 2.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-postgres/test/unit/utils-tests.js
+Analyzed 108 of 108 files. Found 32 authors using 37 modules in 526 instances.
+
+---- node-restify / /home/mbrack/ma/npm-repos/node-restify/
+Generating mailmap
+analyzing [================================] 45/45, 100% | elapsed: 1.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-restify/test/utils.test.js
+Analyzed 44 of 45 files. Found 37 authors using 46 modules in 749 instances.
+
+---- node-sanitize-filename / /home/mbrack/ma/npm-repos/node-sanitize-filename/
+Generating mailmap
+analyzing [================================] 1/1, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-sanitize-filename/test.js
+Analyzed 1 of 1 files. Found 4 authors using 10 modules in 51 instances.
+
+---- node-sass / /home/mbrack/ma/npm-repos/node-sass/
+Generating mailmap
+analyzing [================================] 22/22, 100% | elapsed: 0.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-sass/test/useragent.js
+Analyzed 21 of 22 files. Found 30 authors using 37 modules in 977 instances.
+
+---- node-schedule / /home/mbrack/ma/npm-repos/node-schedule/
+Generating mailmap
+analyzing [================================] 8/8, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-schedule/test/start-end-test.js
+Analyzed 8 of 8 files. Found 8 authors using 13 modules in 205 instances.
+
+---- node-semver / /home/mbrack/ma/npm-repos/node-semver/
+Generating mailmap
+analyzing [================================] 8/8, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-semver/test/prerelease.js
+Analyzed 7 of 8 files. Found 5 authors using 3 modules in 20 instances.
+
+---- node-sqlite3 / /home/mbrack/ma/npm-repos/node-sqlite3/
+Generating mailmap
+analyzing [================================] 33/33, 100% | elapsed: 0.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-sqlite3/test/unicode.test.js
+Analyzed 32 of 33 files. Found 9 authors using 19 modules in 335 instances.
+
+---- node-supervisor / /home/mbrack/ma/npm-repos/node-supervisor/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-supervisor/test/supervisor.test.js
+Analyzed 2 of 4 files. Found 18 authors using 11 modules in 61 instances.
+
+---- node-uuid / /home/mbrack/ma/npm-repos/node-uuid/
+Generating mailmap
+analyzing [================================] 7/7, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/node-uuid/v4.js
+Analyzed 6 of 7 files. Found 3 authors using 10 modules in 28 instances.
+
+---- node-xml2js / /home/mbrack/ma/npm-repos/node-xml2js/
+Analyzed 0 of 0 files. Found 0 authors using 0 modules in 0 instances.
+
+---- node_redis / /home/mbrack/ma/npm-repos/node_redis/
+Generating mailmap
+analyzing [================================] 86/86, 100% | elapsed: 3.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/node_redis/test/utils.spec.js
+Analyzed 86 of 86 files. Found 12 authors using 35 modules in 1851 instances.
+
+---- nodemailer / /home/mbrack/ma/npm-repos/nodemailer/
+Generating mailmap
+analyzing [================================] 59/59, 100% | elapsed: 1.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/nodemailer/test/xoauth2/xoauth2-test.js
+Analyzed 59 of 59 files. Found 1 authors using 42 modules in 748 instances.
+
+---- nodemon / /home/mbrack/ma/npm-repos/nodemon/
+Generating mailmap
+analyzing [================================] 50/50, 100% | elapsed: 1.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/nodemon/web/index.js
+Analyzed 49 of 50 files. Found 13 authors using 26 modules in 765 instances.
+
+---- npm / /home/mbrack/ma/npm-repos/npm/
+analyzing [================================] 429/429, 100% | elapsed: 26.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/npm/test/tap/zz-cleanup.js
+Analyzed 425 of 429 files. Found 112 authors using 100 modules in 9811 instances.
+
+---- npm-check / /home/mbrack/ma/npm-repos/npm-check/
+Generating mailmap
+analyzing [================================] 18/18, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/npm-check/lib/state/state.js
+Analyzed 16 of 18 files. Found 7 authors using 30 modules in 227 instances.
+
+---- npm-check-updates / /home/mbrack/ma/npm-repos/npm-check-updates/
+Generating mailmap
+analyzing [================================] 12/12, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/npm-check-updates/test/test-versionmanager.js
+Analyzed 10 of 12 files. Found 12 authors using 30 modules in 304 instances.
+
+---- npm-run-all / /home/mbrack/ma/npm-repos/npm-run-all/
+Generating mailmap
+analyzing [================================] 40/40, 100% | elapsed: 0.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/npm-run-all/test/sequential.js
+Analyzed 37 of 40 files. Found 4 authors using 24 modules in 466 instances.
+
+---- openmct / /home/mbrack/ma/npm-repos/openmct/
+Generating mailmap
+analyzing [=====---------------------------] 156/917, 17% | elapsed: 20.8s | eta: 101.3s | /home/mbrack/ma/npm-repos/openmct/platform/commonUI/edit/test/capabilities/TransactionalPersistenceCapabilitySpec.analyzing [======================----------] 630/917, 69% | elapsed: 80.7s | eta: 36.8s | /home/mbrack/ma/npm-repos/openmct/platform/features/timeline/src/controllers/swimlane/TimelineSwimlaneDropHandler.janalyzing [========================--------] 681/917, 74% | elapsed: 86.4s | eta: 29.9s | /home/mbrack/ma/npm-repos/openmct/platform/features/timeline/test/controllers/swimlane/TimelineSwimlaneDecoratorSpeanalyzing [========================--------] 682/917, 74% | elapsed: 86.5s | eta: 29.8s | /home/mbrack/ma/npm-repos/openmct/platform/features/timeline/test/controllers/swimlane/TimelineSwimlaneDropHandlerSanalyzing [========================--------] 683/917, 74% | elapsed: 86.6s | eta: 29.7s | /home/mbrack/ma/npm-repos/openmct/platform/features/timeline/test/controllers/swimlane/TimelineSwimlanePopulatorSpeanalyzing [================================] 917/917, 100% | elapsed: 117.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/openmct/test-main.js
+Analyzed 915 of 917 files. Found 11 authors using 39 modules in 1049 instances.
+
+---- passport / /home/mbrack/ma/npm-repos/passport/
+Generating mailmap
+analyzing [================================] 31/31, 100% | elapsed: 1.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/passport/test/strategies/session.test.js
+Analyzed 31 of 31 files. Found 3 authors using 11 modules in 304 instances.
+
+---- pencilblue / /home/mbrack/ma/npm-repos/pencilblue/
+Generating mailmap
+analyzing [======================----------] 145/208, 70% | elapsed: 10.3s | eta: 4.5s | /home/mbrack/ma/npm-repos/pencilblue/plugins/pencilblue/controllers/api/content/customobjects/custom_object_api_contanalyzing [==============================--] 193/208, 93% | elapsed: 12.5s | eta: 1.0s | /home/mbrack/ma/npm-repos/pencilblue/test/include/service/entities/plugins/loaders/plugin_localization_loader_tests.analyzing [================================] 208/208, 100% | elapsed: 12.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/pencilblue/test/test_helpers.js
+Analyzed 207 of 208 files. Found 16 authors using 49 modules in 3223 instances.
+
+---- phantomjs / /home/mbrack/ma/npm-repos/phantomjs/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/phantomjs/test/tests.js
+Analyzed 5 of 6 files. Found 18 authors using 25 modules in 235 instances.
+
+---- pm2 / /home/mbrack/ma/npm-repos/pm2/
+Generating mailmap
+analyzing [================================] 100/100, 100% | elapsed: 6.8s | eta: 0.0s | /home/mbrack/ma/npm-repos/pm2/test/programmatic/watcher.js
+Analyzed 96 of 100 files. Found 32 authors using 54 modules in 3449 instances.
+
+---- pug / /home/mbrack/ma/npm-repos/pug/
+Generating mailmap
+analyzing [================================] 53/53, 100% | elapsed: 1.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/pug/scripts/filename-serializer.js
+Analyzed 53 of 53 files. Found 10 authors using 50 modules in 908 instances.
+
+---- q / /home/mbrack/ma/npm-repos/q/
+error: pathspec 'master' did not match any file(s) known to git.
+analyzing [================================] 7/7, 100% | elapsed: 0.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/q/spec/queue-spec.js
+error: pathspec 'master' did not match any file(s) known to git.
+Analyzed 7 of 7 files. Found 17 authors using 15 modules in 183 instances.
+
+---- qs / /home/mbrack/ma/npm-repos/qs/
+Generating mailmap
+analyzing [================================] 7/7, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/qs/test/utils.js
+Analyzed 7 of 7 files. Found 12 authors using 12 modules in 175 instances.
+
+---- react / /home/mbrack/ma/npm-repos/react/
+analyzing [================================] 354/354, 100% | elapsed: 8.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/react/src/umd/ReactUMDEntry.js
+Analyzed 97 of 354 files. Found 38 authors using 105 modules in 853 instances.
+
+---- react-router / /home/mbrack/ma/npm-repos/react-router/
+Generating mailmap
+analyzing [================================] 13/13, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/react-router/packages/react-router/webpack.config.js
+Analyzed 11 of 13 files. Found 2 authors using 13 modules in 96 instances.
+
+---- redux / /home/mbrack/ma/npm-repos/redux/
+Generating mailmap
+Analyzed 0 of 0 files. Found 0 authors using 0 modules in 0 instances.
+
+---- request / /home/mbrack/ma/npm-repos/request/
+Generating mailmap
+analyzing [================================] 71/71, 100% | elapsed: 3.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/request/tests/test-unix.js
+Analyzed 71 of 71 files. Found 72 authors using 57 modules in 1275 instances.
+
+---- request-promise / /home/mbrack/ma/npm-repos/request-promise/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/request-promise/test/spec/request-test.js
+Analyzed 4 of 4 files. Found 2 authors using 22 modules in 82 instances.
+
+---- rimraf / /home/mbrack/ma/npm-repos/rimraf/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/rimraf/test/fill.js
+Analyzed 4 of 5 files. Found 3 authors using 10 modules in 168 instances.
+
+---- run-sequence / /home/mbrack/ma/npm-repos/run-sequence/
+Generating mailmap
+analyzing [================================] 3/3, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/run-sequence/test/submodule.js
+Analyzed 3 of 3 files. Found 4 authors using 8 modules in 103 instances.
+
+---- sails / /home/mbrack/ma/npm-repos/sails/
+Generating mailmap
+analyzing [================================] 182/182, 100% | elapsed: 9.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/sails/test/unit/virtual-request-interpreter.test.js
+Analyzed 181 of 182 files. Found 35 authors using 78 modules in 4657 instances.
+
+---- selenium / /home/mbrack/ma/npm-repos/selenium/
+analyzing [====----------------------------] 41/366, 11% | elapsed: 7.7s | eta: 60.8s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/AdapterRegistranalyzing [====----------------------------] 43/366, 12% | elapsed: 8.3s | eta: 62.2s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/DeferredList.janalyzing [====----------------------------] 47/366, 13% | elapsed: 9.2s | eta: 62.5s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/DragAndDroanalyzing [====----------------------------] 48/366, 13% | elapsed: 9.4s | eta: 62.6s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/HtmlDragAnanalyzing [====----------------------------] 49/366, 13% | elapsed: 9.7s | eta: 62.7s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/HtmlDragCoanalyzing [====----------------------------] 50/366, 14% | elapsed: 9.9s | eta: 62.7s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/HtmlDragMaanalyzing [====----------------------------] 51/366, 14% | elapsed: 10.2s | eta: 62.8s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/HtmlDragManalyzing [=====---------------------------] 52/366, 14% | elapsed: 10.4s | eta: 62.7s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/Sortable.analyzing [=====---------------------------] 53/366, 14% | elapsed: 10.6s | eta: 62.7s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/TreeDragAanalyzing [=====---------------------------] 54/366, 15% | elapsed: 10.9s | eta: 62.7s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/dnd/TreeDragAanalyzing [=====---------------------------] 57/366, 16% | elapsed: 11.6s | eta: 62.8s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/event/browseranalyzing [=====---------------------------] 58/366, 16% | elapsed: 11.8s | eta: 62.8s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/event/common.analyzing [=====---------------------------] 59/366, 16% | elapsed: 12.1s | eta: 62.8s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/event/topic.janalyzing [=====---------------------------] 61/366, 17% | elapsed: 12.6s | eta: 62.8s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/hostenv_jsc.janalyzing [======--------------------------] 64/366, 17% | elapsed: 13.0s | eta: 61.4s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/common.janalyzing [======--------------------------] 65/366, 18% | elapsed: 13.3s | eta: 61.4s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/display.analyzing [======--------------------------] 66/366, 18% | elapsed: 13.5s | eta: 61.3s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/iframe.janalyzing [======--------------------------] 67/366, 18% | elapsed: 13.7s | eta: 61.2s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/layout.janalyzing [======--------------------------] 68/366, 19% | elapsed: 14.0s | eta: 61.2s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/metrics.analyzing [======--------------------------] 69/366, 19% | elapsed: 14.2s | eta: 61.1s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/selectioanalyzing [======--------------------------] 70/366, 19% | elapsed: 14.4s | eta: 61.1s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/html/shadow.janalyzing [=======-------------------------] 78/366, 21% | elapsed: 16.3s | eta: 60.2s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/lang/assert.janalyzing [=======-------------------------] 79/366, 22% | elapsed: 16.5s | eta: 60.0s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/lang/declare.analyzing [=======-------------------------] 80/366, 22% | elapsed: 16.8s | eta: 59.9s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/lang/extras.janalyzing [=======-------------------------] 83/366, 23% | elapsed: 17.4s | eta: 59.5s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/lang/timing/Sanalyzing [=======-------------------------] 84/366, 23% | elapsed: 17.7s | eta: 59.3s | /home/mbrack/ma/npm-repos/selenium/java/server/test/org/openqa/selenium/tests/html/dojo-0.4.0-mini/src/lang/timing/Tanalyzing [================================] 366/366, 100% | elapsed: 90.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/selenium/javascript/webdriver/test/testutil_test.js
+Analyzed 364 of 366 files. Found 43 authors using 44 modules in 3203 instances.
+
+---- sequelize / /home/mbrack/ma/npm-repos/sequelize/
+Generating mailmap
+analyzing [================================] 218/218, 100% | elapsed: 35.6s | eta: 0.0s | /home/mbrack/ma/npm-repos/sequelize/test/unit/utils.test.js
+Analyzed 218 of 218 files. Found 146 authors using 55 modules in 3908 instances.
+
+---- session / /home/mbrack/ma/npm-repos/session/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/session/test/session.js
+Analyzed 5 of 5 files. Found 10 authors using 31 modules in 358 instances.
+
+---- shelljs / /home/mbrack/ma/npm-repos/shelljs/
+Generating mailmap
+analyzing [================================] 40/40, 100% | elapsed: 1.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/shelljs/test/utils/utils.js
+Analyzed 38 of 40 files. Found 21 authors using 21 modules in 450 instances.
+
+---- shortid / /home/mbrack/ma/npm-repos/shortid/
+Generating mailmap
+analyzing [================================] 14/14, 100% | elapsed: 0.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/shortid/test/shortid.test.js
+Analyzed 14 of 14 files. Found 2 authors using 7 modules in 86 instances.
+
+---- should / /home/mbrack/ma/npm-repos/should/
+Generating mailmap
+analyzing [================================] 21/21, 100% | elapsed: 0.6s | eta: 0.0s | /home/mbrack/ma/npm-repos/should/test/util.js
+Analyzed 21 of 21 files. Found 9 authors using 19 modules in 228 instances.
+
+---- sinopia / /home/mbrack/ma/npm-repos/sinopia/
+Generating mailmap
+analyzing [================================] 53/53, 100% | elapsed: 1.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/sinopia/test/unit/validate_all.js
+Analyzed 51 of 53 files. Found 11 authors using 51 modules in 1037 instances.
+
+---- socket / /home/mbrack/ma/npm-repos/socket/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/socket/test/socket.io.js
+Analyzed 6 of 6 files. Found 26 authors using 33 modules in 570 instances.
+
+---- socket.io / /home/mbrack/ma/npm-repos/socket.io/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/socket.io/test/socket.io.js
+Analyzed 6 of 6 files. Found 26 authors using 33 modules in 570 instances.
+
+---- standard / /home/mbrack/ma/npm-repos/standard/
+Generating mailmap
+analyzing [================================] 6/6, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/standard/test/cmd.js
+Analyzed 5 of 6 files. Found 2 authors using 16 modules in 51 instances.
+
+---- statsd / /home/mbrack/ma/npm-repos/statsd/
+Generating mailmap
+analyzing [================================] 27/27, 100% | elapsed: 0.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/statsd/test/set_tests.js
+Analyzed 25 of 27 files. Found 34 authors using 25 modules in 561 instances.
+
+---- stylus / /home/mbrack/ma/npm-repos/stylus/
+Generating mailmap
+analyzing [================================] 127/127, 100% | elapsed: 6.6s | eta: 0.0s | /home/mbrack/ma/npm-repos/stylus/test/run.js
+Analyzed 126 of 127 files. Found 27 authors using 30 modules in 804 instances.
+
+---- superagent / /home/mbrack/ma/npm-repos/superagent/
+Generating mailmap
+analyzing [================================] 48/48, 100% | elapsed: 1.7s | eta: 0.0s | /home/mbrack/ma/npm-repos/superagent/test/use.js
+Analyzed 48 of 48 files. Found 60 authors using 42 modules in 833 instances.
+
+---- supertest / /home/mbrack/ma/npm-repos/supertest/
+Generating mailmap
+analyzing [================================] 4/4, 100% | elapsed: 0.1s | eta: 0.0s | /home/mbrack/ma/npm-repos/supertest/test/supertest.js
+Analyzed 4 of 4 files. Found 24 authors using 19 modules in 199 instances.
+
+---- tape / /home/mbrack/ma/npm-repos/tape/
+Generating mailmap
+analyzing [================================] 73/73, 100% | elapsed: 0.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/tape/test/undef.js
+Analyzed 72 of 73 files. Found 23 authors using 36 modules in 353 instances.
+
+---- through2 / /home/mbrack/ma/npm-repos/through2/
+Generating mailmap
+analyzing [================================] 5/5, 100% | elapsed: 0.0s | eta: 0.0s | /home/mbrack/ma/npm-repos/through2/through2.js
+Analyzed 4 of 5 files. Found 3 authors using 14 modules in 81 instances.
+
+---- underscore / /home/mbrack/ma/npm-repos/underscore/
+Generating mailmap
+analyzing [================================] 8/8, 100% | elapsed: 0.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/underscore/test/utility.js
+Analyzed 8 of 8 files. Found 20 authors using 30 modules in 288 instances.
+
+---- validator.js / /home/mbrack/ma/npm-repos/validator.js/
+Generating mailmap
+analyzing [================================] 71/71, 100% | elapsed: 1.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/validator.js/test/validators.js
+Analyzed 71 of 71 files. Found 8 authors using 20 modules in 487 instances.
+
+---- vue / /home/mbrack/ma/npm-repos/vue/
+Generating mailmap
+analyzing [================================] 36/36, 100% | elapsed: 12.2s | eta: 0.0s | /home/mbrack/ma/npm-repos/vue/test/weex/helpers/index.js
+Analyzed 28 of 36 files. Found 5 authors using 42 modules in 1232 instances.
+
+---- watchify / /home/mbrack/ma/npm-repos/watchify/
+Generating mailmap
+analyzing [================================] 25/25, 100% | elapsed: 0.3s | eta: 0.0s | /home/mbrack/ma/npm-repos/watchify/test/zzz.js
+Analyzed 24 of 25 files. Found 7 authors using 23 modules in 522 instances.
+
+---- webpack / /home/mbrack/ma/npm-repos/webpack/
+Generating mailmap
+analyzing [================================] 602/602, 100% | elapsed: 23.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/webpack/test/watchCases/simple/simple/0/index.js
+Analyzed 596 of 602 files. Found 103 authors using 67 modules in 4998 instances.
+
+---- winston / /home/mbrack/ma/npm-repos/winston/
+Generating mailmap
+analyzing [================================] 39/39, 100% | elapsed: 0.9s | eta: 0.0s | /home/mbrack/ma/npm-repos/winston/test/winston-test.js
+Analyzed 39 of 39 files. Found 58 authors using 36 modules in 909 instances.
+
+---- wp-calypso / /home/mbrack/ma/npm-repos/wp-calypso/
+Generating mailmap
+analyzing [=====---------------------------] 110/748, 15% | elapsed: 3.0s | eta: 17.4s | /home/mbrack/ma/npm-repos/wp-calypso/client/components/tinymce/plugins/wpcom-view/views/contact-form/preview-fields.analyzing [=====---------------------------] 111/748, 15% | elapsed: 3.0s | eta: 17.3s | /home/mbrack/ma/npm-repos/wp-calypso/client/components/tinymce/plugins/wpcom-view/views/contact-form/preview-legend.analyzing [=====---------------------------] 112/748, 15% | elapsed: 3.0s | eta: 17.1s | /home/mbrack/ma/npm-repos/wp-calypso/client/components/tinymce/plugins/wpcom-view/views/contact-form/preview-requireanalyzing [========================--------] 550/748, 74% | elapsed: 46.3s | eta: 16.7s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/add-google-apps/add-email-addressesanalyzing [========================--------] 554/748, 74% | elapsed: 46.3s | eta: 16.2s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/components/icann-verification/icannanalyzing [========================--------] 555/748, 74% | elapsed: 46.3s | eta: 16.1s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/contacts-privacy/contact-display.jsanalyzing [========================--------] 558/748, 75% | elapsed: 46.5s | eta: 15.8s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/edit/card/header/primary-domain-butanalyzing [========================--------] 564/748, 75% | elapsed: 46.5s | eta: 15.2s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/email-forwarding/email-forwarding-danalyzing [========================--------] 565/748, 76% | elapsed: 46.5s | eta: 15.0s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/email-forwarding/email-forwarding-lanalyzing [========================--------] 568/748, 76% | elapsed: 46.5s | eta: 14.7s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/name-servers/wpcom-nameservers-togganalyzing [========================--------] 569/748, 76% | elapsed: 46.5s | eta: 14.6s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/privacy-protection/card/add-button.analyzing [========================--------] 571/748, 76% | elapsed: 46.5s | eta: 14.4s | /home/mbrack/ma/npm-repos/wp-calypso/client/my-sites/upgrades/domain-management/transfer/transfer-out/transfer-prohanalyzing [=============================---] 684/748, 91% | elapsed: 51.7s | eta: 4.8s | /home/mbrack/ma/npm-repos/wp-calypso/client/state/selectors/test/is-jetpack-module-unavailable-in-development-mode.janalyzing [================================] 748/748, 100% | elapsed: 56.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/wp-calypso/webpack.config.node.js
+Analyzed 410 of 748 files. Found 85 authors using 291 modules in 4393 instances.
+
+---- ws / /home/mbrack/ma/npm-repos/ws/
+Generating mailmap
+warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 2025 and retry the command.
+analyzing [================================] 22/22, 100% | elapsed: 1.5s | eta: 0.0s | /home/mbrack/ma/npm-repos/ws/test/testserver.js
+Analyzed 22 of 22 files. Found 21 authors using 29 modules in 787 instances.
+
+---- yo / /home/mbrack/ma/npm-repos/yo/
+Generating mailmap
+analyzing [================================] 25/25, 100% | elapsed: 0.4s | eta: 0.0s | /home/mbrack/ma/npm-repos/yo/test/router.js
+Analyzed 23 of 25 files. Found 8 authors using 45 modules in 473 instances.
