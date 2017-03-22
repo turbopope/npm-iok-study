@@ -1,0 +1,35 @@
+p Hi,
+
+p as part of my Master's Thesis on programming expertise distribution in open source software, I analyzed the repositories of some popular NPM packages for so-called Islands of Knowledge.
+
+p Islands of Knowledge are a metric for the <a href="https://en.wikipedia.org/wiki/Bus_factor)">Bus Factor</a> of a project (which states how many developers can get hit by a bus before the project is incapacitated). An Island of Knowledge exists when single a developer alone has expertise in an programming domain. A programming domain is an area of expertise about certain programming tasks, like working with databases or web APIs.
+
+p To find Islands of Knowledge, I implemented a data mining process to count how many times each developer used each module and combined the numbers for modules in the same domain (for example the <code>IO</code> domain contains, among others, the modules <code>fs</code> and <code>path</code>). "Modules" in this sense also means global objects like <code>console</code>.
+
+p I analyzed <code>#{repoName}</code>, for which you are a major contributor, and found the following potential canditates for Islands of Knowledge:
+
+table
+  thead
+    th Developer
+    th Domain
+    th Modules/Objects
+    th % of uses
+  tbody
+    - for (let island of domainPortionIoKs)
+      tr
+        td=island.author
+        td=island.location
+        td <code>#{(island.remap || [island.location]).join(', ')}</code>
+        td=(island.portion * 100).toFixed(2) + '%'
+
+p To validate my results, I would like to ask you a few simple questions:
+
+ol
+  li Do you think that the listed developers have most of the knowledge of the listed programming domains?
+  li Do you think that <code>#{repoName}</code> may be in trouble if the listed developers leave the project?
+  li Does <code>#{repoName}</code> have some characteristics such as detailed documentation so that the loss of the listed developers would be less troublesome?
+  li Do you think that the assignment of modules to domains shown above is reasonable?
+
+p Thanks in advance for your collaboration,
+
+p Marco Brack<br>University of Koblenz-Landau<br>Software Languages Team<br>Koblenz, Germany<br>http://www.softlang.org/techusage

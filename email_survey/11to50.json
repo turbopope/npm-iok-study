@@ -1,0 +1,1257 @@
+[
+  {
+    "repoName": "sequelize",
+    "uses": 3897,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports"
+        ],
+        "author": "Felix Becker",
+        "total": 283,
+        "uses": 196,
+        "portion": 0.6925795053003534
+      }
+    ]
+  },
+  {
+    "repoName": "pm2",
+    "uses": 3449,
+    "domainPortionIoKs": [
+      {
+        "location": "PROCESS",
+        "remap": [
+          "process",
+          "child_process",
+          "cluster"
+        ],
+        "author": "Unitech",
+        "total": 667,
+        "uses": 558,
+        "portion": 0.8365817091454273
+      },
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "global"
+        ],
+        "author": "Unitech",
+        "total": 175,
+        "uses": 151,
+        "portion": 0.8628571428571429
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "fs",
+          "readline",
+          "url",
+          "domain"
+        ],
+        "author": "Unitech",
+        "total": 426,
+        "uses": 281,
+        "portion": 0.6596244131455399
+      },
+      {
+        "location": "CLI",
+        "remap": [
+          "chalk",
+          "cli-table"
+        ],
+        "author": "Unitech",
+        "total": 161,
+        "uses": 134,
+        "portion": 0.8322981366459627
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "Date",
+          "Object",
+          "RegExp",
+          "vm",
+          "String",
+          "null"
+        ],
+        "author": "Unitech",
+        "total": 285,
+        "uses": 246,
+        "portion": 0.8631578947368421
+      },
+      {
+        "location": "LOGGING",
+        "remap": [
+          "console"
+        ],
+        "author": "Unitech",
+        "total": 386,
+        "uses": 339,
+        "portion": 0.8782383419689119
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "assert",
+          "should"
+        ],
+        "author": "Unitech",
+        "total": 641,
+        "uses": 607,
+        "portion": 0.9469578783151326
+      }
+    ]
+  },
+  {
+    "repoName": "pencilblue",
+    "uses": 3223,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "global"
+        ],
+        "author": "Brian Hyder",
+        "total": 333,
+        "uses": 317,
+        "portion": 0.9519519519519519
+      },
+      {
+        "location": "ASYNC",
+        "remap": [
+          "async",
+          "async-eventemitter"
+        ],
+        "author": "Brian Hyder",
+        "total": 212,
+        "uses": 186,
+        "portion": 0.8773584905660378
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "Object",
+          "Date",
+          "RegExp",
+          "String",
+          "null"
+        ],
+        "author": "Brian Hyder",
+        "total": 197,
+        "uses": 177,
+        "portion": 0.8984771573604061
+      },
+      {
+        "location": "ERROR",
+        "remap": [
+          "Error"
+        ],
+        "author": "Brian Hyder",
+        "total": 230,
+        "uses": 223,
+        "portion": 0.9695652173913043
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "url",
+          "fs",
+          "path",
+          "domain"
+        ],
+        "author": "Brian Hyder",
+        "total": 844,
+        "uses": 802,
+        "portion": 0.9502369668246445
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "should"
+        ],
+        "author": "Brian Hyder",
+        "total": 920,
+        "uses": 675,
+        "portion": 0.7336956521739131
+      }
+    ]
+  },
+  {
+    "repoName": "moment",
+    "uses": 3204,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "global"
+        ],
+        "author": "Iskren Chernev",
+        "total": 1228,
+        "uses": 1228,
+        "portion": 1
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "Date",
+          "RegExp",
+          "Function",
+          "Object",
+          "String"
+        ],
+        "author": "Iskren Chernev",
+        "total": 1349,
+        "uses": 1349,
+        "portion": 1
+      },
+      {
+        "location": "ERROR",
+        "remap": [
+          "Error"
+        ],
+        "author": "Iskren Chernev",
+        "total": 476,
+        "uses": 476,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "selenium",
+    "uses": 3203,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "global",
+          "exports"
+        ],
+        "author": "Jason Leyba",
+        "total": 289,
+        "uses": 244,
+        "portion": 0.8442906574394463
+      },
+      {
+        "location": "ERROR",
+        "remap": [
+          "Error",
+          "TypeError"
+        ],
+        "author": "Jason Leyba",
+        "total": 322,
+        "uses": 217,
+        "portion": 0.6739130434782609
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Jason Leyba",
+        "total": 941,
+        "uses": 941,
+        "portion": 1
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "fs",
+          "path",
+          "url",
+          "net"
+        ],
+        "author": "Jason Leyba",
+        "total": 444,
+        "uses": 437,
+        "portion": 0.9842342342342343
+      },
+      {
+        "location": "PROMISE",
+        "remap": [
+          "Promise"
+        ],
+        "author": "Jason Leyba",
+        "total": 220,
+        "uses": 220,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "mocha",
+    "uses": 2841,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "assert",
+          "should"
+        ],
+        "author": "Daniel St. Jules",
+        "total": 237,
+        "uses": 165,
+        "portion": 0.6962025316455697
+      }
+    ]
+  },
+  {
+    "repoName": "hexo",
+    "uses": 2840,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports"
+        ],
+        "author": "Tommy Chen",
+        "total": 238,
+        "uses": 236,
+        "portion": 0.9915966386554622
+      },
+      {
+        "location": "FILE",
+        "remap": [
+          "hexo-fs"
+        ],
+        "author": "Tommy Chen",
+        "total": 560,
+        "uses": 543,
+        "portion": 0.9696428571428571
+      },
+      {
+        "location": "PROCESS",
+        "remap": [
+          "process"
+        ],
+        "author": "Tommy Chen",
+        "total": 118,
+        "uses": 117,
+        "portion": 0.9915254237288136
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "Boolean",
+          "Object",
+          "Date",
+          "vm",
+          "RegExp",
+          "String"
+        ],
+        "author": "Tommy Chen",
+        "total": 141,
+        "uses": 141,
+        "portion": 1
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "stream",
+          "url",
+          "querystring"
+        ],
+        "author": "Tommy Chen",
+        "total": 421,
+        "uses": 406,
+        "portion": 0.9643705463182898
+      },
+      {
+        "location": "PROMISE",
+        "remap": [
+          "bluebird"
+        ],
+        "author": "Tommy Chen",
+        "total": 249,
+        "uses": 245,
+        "portion": 0.9839357429718876
+      },
+      {
+        "location": "UTIL",
+        "remap": [
+          "lodash",
+          "hexo-util",
+          "util"
+        ],
+        "author": "Tommy Chen",
+        "total": 172,
+        "uses": 172,
+        "portion": 1
+      },
+      {
+        "location": "TIME",
+        "remap": [
+          "moment-timezone"
+        ],
+        "author": "Tommy Chen",
+        "total": 108,
+        "uses": 108,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "node-fs-extra",
+    "uses": 2278,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "browser-sync",
+    "uses": 2173,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "graceful-fs"
+        ],
+        "author": "Shane Osbourne",
+        "total": 143,
+        "uses": 141,
+        "portion": 0.986013986013986
+      },
+      {
+        "location": "DATA",
+        "remap": [
+          "immutable",
+          "Map",
+          "Array"
+        ],
+        "author": "Shane Osbourne",
+        "total": 110,
+        "uses": 110,
+        "portion": 1
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "fs",
+          "path",
+          "url",
+          "stream",
+          "dns"
+        ],
+        "author": "Shane Osbourne",
+        "total": 193,
+        "uses": 164,
+        "portion": 0.8497409326424871
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "chai",
+          "assert",
+          "supertest"
+        ],
+        "author": "Shane Osbourne",
+        "total": 1076,
+        "uses": 1052,
+        "portion": 0.9776951672862454
+      },
+      {
+        "location": "sinon",
+        "author": "Shane Osbourne",
+        "total": 215,
+        "uses": 203,
+        "portion": 0.9441860465116279
+      }
+    ]
+  },
+  {
+    "repoName": "ionic-cli",
+    "uses": 2068,
+    "domainPortionIoKs": [
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "fs",
+          "url",
+          "net"
+        ],
+        "author": "Josh Thomas",
+        "total": 254,
+        "uses": 197,
+        "portion": 0.7755905511811023
+      },
+      {
+        "location": "PROCESS",
+        "remap": [
+          "process",
+          "child_process"
+        ],
+        "author": "Josh Thomas",
+        "total": 205,
+        "uses": 148,
+        "portion": 0.7219512195121951
+      },
+      {
+        "location": "CORDOVA",
+        "remap": [
+          "ionic-app-lib"
+        ],
+        "author": "Josh Thomas",
+        "total": 266,
+        "uses": 256,
+        "portion": 0.9624060150375939
+      },
+      {
+        "location": "CLI",
+        "remap": [
+          "optimist",
+          "chalk",
+          "cli-table",
+          "progress"
+        ],
+        "author": "Josh Thomas",
+        "total": 400,
+        "uses": 373,
+        "portion": 0.9325
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "String",
+          "Object",
+          "Date",
+          "Function"
+        ],
+        "author": "Josh Thomas",
+        "total": 135,
+        "uses": 129,
+        "portion": 0.9555555555555556
+      },
+      {
+        "location": "NODE",
+        "remap": [
+          "q"
+        ],
+        "author": "Josh Thomas",
+        "total": 286,
+        "uses": 267,
+        "portion": 0.9335664335664335
+      }
+    ]
+  },
+  {
+    "repoName": "mysql",
+    "uses": 2022,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Douglas Christopher Wilson",
+        "total": 1272,
+        "uses": 1079,
+        "portion": 0.8482704402515723
+      }
+    ]
+  },
+  {
+    "repoName": "node_redis",
+    "uses": 1851,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Ruben Bridgewater",
+        "total": 1307,
+        "uses": 1136,
+        "portion": 0.8691660290742158
+      }
+    ]
+  },
+  {
+    "repoName": "istanbul",
+    "uses": 1586,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "global"
+        ],
+        "author": "gotwarlost",
+        "total": 216,
+        "uses": 209,
+        "portion": 0.9675925925925926
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "fs"
+        ],
+        "author": "gotwarlost",
+        "total": 514,
+        "uses": 451,
+        "portion": 0.877431906614786
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "Object",
+          "Boolean",
+          "String",
+          "Date",
+          "vm",
+          "RegExp"
+        ],
+        "author": "gotwarlost",
+        "total": 114,
+        "uses": 109,
+        "portion": 0.956140350877193
+      },
+      {
+        "location": "LOGGING",
+        "remap": [
+          "console"
+        ],
+        "author": "gotwarlost",
+        "total": 116,
+        "uses": 111,
+        "portion": 0.9568965517241379
+      }
+    ]
+  },
+  {
+    "repoName": "hapi",
+    "uses": 1544,
+    "domainPortionIoKs": [
+      {
+        "location": "HTTP",
+        "remap": [
+          "boom",
+          "http",
+          "https",
+          "subtext",
+          "ammo",
+          "wreck"
+        ],
+        "author": "Eran Hammer",
+        "total": 155,
+        "uses": 154,
+        "portion": 0.9935483870967742
+      },
+      {
+        "location": "UTILITIES",
+        "remap": [
+          "hoek"
+        ],
+        "author": "Eran Hammer",
+        "total": 293,
+        "uses": 293,
+        "portion": 1
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "zlib",
+          "path",
+          "url",
+          "stream",
+          "fs",
+          "net",
+          "domain"
+        ],
+        "author": "Eran Hammer",
+        "total": 148,
+        "uses": 148,
+        "portion": 1
+      },
+      {
+        "location": "VALIDATION",
+        "remap": [
+          "joi"
+        ],
+        "author": "Eran Hammer",
+        "total": 309,
+        "uses": 284,
+        "portion": 0.919093851132686
+      }
+    ]
+  },
+  {
+    "repoName": "express",
+    "uses": 1449,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "cheerio",
+    "uses": 1428,
+    "domainPortionIoKs": [
+      {
+        "location": "expect.js",
+        "author": "Mike Pennisi",
+        "total": 1076,
+        "uses": 769,
+        "portion": 0.7146840148698885
+      }
+    ]
+  },
+  {
+    "repoName": "atom",
+    "uses": 1400,
+    "domainPortionIoKs": [
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "fs"
+        ],
+        "author": "Antonio Scandurra",
+        "total": 446,
+        "uses": 306,
+        "portion": 0.6860986547085202
+      },
+      {
+        "location": "JSON",
+        "remap": [
+          "fs-extra",
+          "JSON",
+          "season"
+        ],
+        "author": "Antonio Scandurra",
+        "total": 145,
+        "uses": 116,
+        "portion": 0.8
+      }
+    ]
+  },
+  {
+    "repoName": "async",
+    "uses": 1300,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "jshint",
+    "uses": 1289,
+    "domainPortionIoKs": [
+      {
+        "location": "sinon",
+        "author": "Mike Pennisi",
+        "total": 190,
+        "uses": 130,
+        "portion": 0.6842105263157895
+      }
+    ]
+  },
+  {
+    "repoName": "request",
+    "uses": 1264,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "tape",
+          "assert"
+        ],
+        "author": "James Nylen",
+        "total": 351,
+        "uses": 241,
+        "portion": 0.6866096866096866
+      }
+    ]
+  },
+  {
+    "repoName": "vue",
+    "uses": 1232,
+    "domainPortionIoKs": [
+      {
+        "location": "PROCESS",
+        "remap": [
+          "process"
+        ],
+        "author": "Evan You",
+        "total": 187,
+        "uses": 187,
+        "portion": 1
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "Date",
+          "Object",
+          "String",
+          "RegExp",
+          "Symbol",
+          "Reflect",
+          "Function",
+          "Proxy",
+          "Boolean",
+          "vm"
+        ],
+        "author": "Evan You",
+        "total": 559,
+        "uses": 559,
+        "portion": 1
+      },
+      {
+        "location": "DATA",
+        "remap": [
+          "Array",
+          "Set"
+        ],
+        "author": "Evan You",
+        "total": 121,
+        "uses": 121,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "js-xlsx",
+    "uses": 1194,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "global"
+        ],
+        "author": "SheetJS",
+        "total": 278,
+        "uses": 278,
+        "portion": 1
+      },
+      {
+        "location": "CORE",
+        "remap": [
+          "String",
+          "Date",
+          "Object",
+          "RegExp"
+        ],
+        "author": "SheetJS",
+        "total": 172,
+        "uses": 172,
+        "portion": 1
+      },
+      {
+        "location": "DATA",
+        "remap": [
+          "Array",
+          "Uint8Array",
+          "ArrayBuffer",
+          "Uint16Array",
+          "Uint32Array",
+          "Int32Array"
+        ],
+        "author": "SheetJS",
+        "total": 109,
+        "uses": 109,
+        "portion": 1
+      },
+      {
+        "location": "ERROR",
+        "remap": [
+          "Error",
+          "TypeError"
+        ],
+        "author": "SheetJS",
+        "total": 177,
+        "uses": 177,
+        "portion": 1
+      },
+      {
+        "location": "MATH",
+        "remap": [
+          "Math",
+          "Infinity",
+          "NaN",
+          "Number"
+        ],
+        "author": "SheetJS",
+        "total": 185,
+        "uses": 185,
+        "portion": 1
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "SheetJS",
+        "total": 145,
+        "uses": 145,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "openmct",
+    "uses": 1049,
+    "domainPortionIoKs": [
+      {
+        "location": "CORE",
+        "remap": [
+          "Date",
+          "String",
+          "Object",
+          "Function",
+          "RegExp"
+        ],
+        "author": "Victor Woeltjen",
+        "total": 411,
+        "uses": 317,
+        "portion": 0.7712895377128953
+      },
+      {
+        "location": "MATH",
+        "remap": [
+          "Math",
+          "Number"
+        ],
+        "author": "Victor Woeltjen",
+        "total": 212,
+        "uses": 181,
+        "portion": 0.8537735849056604
+      }
+    ]
+  },
+  {
+    "repoName": "sinopia",
+    "uses": 1037,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "global"
+        ],
+        "author": "Alex Kocharin",
+        "total": 221,
+        "uses": 187,
+        "portion": 0.8461538461538461
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Alex Kocharin",
+        "total": 195,
+        "uses": 195,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "gm",
+    "uses": 1026,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports"
+        ],
+        "author": "Aaron Heckmann",
+        "total": 217,
+        "uses": 181,
+        "portion": 0.8341013824884793
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Aaron Heckmann",
+        "total": 510,
+        "uses": 459,
+        "portion": 0.9
+      }
+    ]
+  },
+  {
+    "repoName": "node-sass",
+    "uses": 977,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "react",
+    "uses": 975,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "log4js-node",
+    "uses": 965,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "tap"
+        ],
+        "author": "Gareth Jones",
+        "total": 390,
+        "uses": 383,
+        "portion": 0.982051282051282
+      }
+    ]
+  },
+  {
+    "repoName": "aws-sdk-js",
+    "uses": 946,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "karma",
+    "uses": 945,
+    "domainPortionIoKs": [
+      {
+        "location": "MODULE",
+        "remap": [
+          "module",
+          "exports",
+          "graceful-fs",
+          "global"
+        ],
+        "author": "dignifiedquire",
+        "total": 161,
+        "uses": 119,
+        "portion": 0.7391304347826086
+      }
+    ]
+  },
+  {
+    "repoName": "winston",
+    "uses": 909,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "vows",
+          "assert",
+          "hock"
+        ],
+        "author": "indexzero",
+        "total": 176,
+        "uses": 145,
+        "portion": 0.8238636363636364
+      }
+    ]
+  },
+  {
+    "repoName": "pug",
+    "uses": 908,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Forbes Lindesay",
+        "total": 291,
+        "uses": 269,
+        "portion": 0.9243986254295533
+      },
+      {
+        "location": "PUG",
+        "remap": [
+          "pug-runtime",
+          "pug-error",
+          "pug-runtime/build",
+          "pug-attrs",
+          "pug-walk",
+          "pug-lexer",
+          "pug-parser",
+          "pug-load",
+          "pug-strip-comments",
+          "pug-filters",
+          "pug-linker",
+          "pug-code-gen",
+          "pug-runtime/wrap"
+        ],
+        "author": "Forbes Lindesay",
+        "total": 179,
+        "uses": 172,
+        "portion": 0.9608938547486033
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "fs"
+        ],
+        "author": "Forbes Lindesay",
+        "total": 124,
+        "uses": 113,
+        "portion": 0.9112903225806451
+      }
+    ]
+  },
+  {
+    "repoName": "jade",
+    "uses": 908,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Forbes Lindesay",
+        "total": 291,
+        "uses": 269,
+        "portion": 0.9243986254295533
+      },
+      {
+        "location": "PUG",
+        "remap": [
+          "pug-runtime",
+          "pug-error",
+          "pug-runtime/build",
+          "pug-attrs",
+          "pug-walk",
+          "pug-lexer",
+          "pug-parser",
+          "pug-load",
+          "pug-strip-comments",
+          "pug-filters",
+          "pug-linker",
+          "pug-code-gen",
+          "pug-runtime/wrap"
+        ],
+        "author": "Forbes Lindesay",
+        "total": 179,
+        "uses": 172,
+        "portion": 0.9608938547486033
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "path",
+          "fs"
+        ],
+        "author": "Forbes Lindesay",
+        "total": 124,
+        "uses": 113,
+        "portion": 0.9112903225806451
+      }
+    ]
+  },
+  {
+    "repoName": "superagent",
+    "uses": 830,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "stylus",
+    "uses": 804,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "ws",
+    "uses": 787,
+    "domainPortionIoKs": [
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Luigi Pinca",
+        "total": 411,
+        "uses": 399,
+        "portion": 0.9708029197080292
+      }
+    ]
+  },
+  {
+    "repoName": "nodemon",
+    "uses": 765,
+    "domainPortionIoKs": [
+      {
+        "location": "PROCESS",
+        "remap": [
+          "process",
+          "child_process"
+        ],
+        "author": "Remy Sharp",
+        "total": 137,
+        "uses": 137,
+        "portion": 1
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "fs",
+          "path"
+        ],
+        "author": "Remy Sharp",
+        "total": 146,
+        "uses": 146,
+        "portion": 1
+      },
+      {
+        "location": "TEST",
+        "remap": [
+          "assert"
+        ],
+        "author": "Remy Sharp",
+        "total": 266,
+        "uses": 266,
+        "portion": 1
+      }
+    ]
+  },
+  {
+    "repoName": "node-restify",
+    "uses": 749,
+    "domainPortionIoKs": []
+  },
+  {
+    "repoName": "nodemailer",
+    "uses": 748,
+    "domainPortionIoKs": [
+      {
+        "location": "CORE",
+        "remap": [
+          "RegExp",
+          "Date",
+          "Object",
+          "String"
+        ],
+        "author": "Andris Reinman",
+        "total": 113,
+        "uses": 113,
+        "portion": 1
+      },
+      {
+        "location": "IO",
+        "remap": [
+          "stream",
+          "fs",
+          "path",
+          "punycode",
+          "url",
+          "zlib",
+          "net",
+          "dns",
+          "querystring"
+        ],
+        "author": "Andris Reinman",
+        "total": 145,
+        "uses": 145,
+        "portion": 1
+      }
+    ]
+  }
+]
