@@ -41,6 +41,7 @@ function onDownloadedStarsPage(error, response, body) {
 };
 
 let repoURLs = [];
+let repoNames = [];
 
 function gotNPMUrls() {
   request(packagePages[0], onDownloadedPackagePage);
@@ -51,6 +52,9 @@ function onDownloadedPackagePage(error, response, body) {
   if (!response || !response.statusCode) { throw new Error(`${response.statusCode} -- ${response}`) }
 
   const pack = JSON.parse(body);
+
+  repoNames.push(pack.name);
+
   if (pack.repository && pack.repository.type === 'git') {
     let repoURL = pack.repository.url;
     // repoURL = `git@${repoURL.host}${repoURL.path}`;
@@ -65,6 +69,6 @@ function onDownloadedPackagePage(error, response, body) {
   if (packagePages.length > 0) {
     request(packagePages[0], onDownloadedPackagePage);
   } else {
-    console.log(JSON.stringify(repoURLs));
+    console.log(JSON.stringify({repoURLs, repoNames}));
   }
 }
