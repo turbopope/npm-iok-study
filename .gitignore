@@ -2,5 +2,6 @@ out/
 .cache/
 node_modules/
 result*
+!result_65_70.json
 top*
 islandCounts.csv
